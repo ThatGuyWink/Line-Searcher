@@ -1,4 +1,8 @@
+Justin Winkler
+COP 2805C
+
 -- Overview --
+
 
 The Line Searcher project is a client-server application that allows users to search for specific lines in a text file hosted on the server. The project consists of three main components:
 
